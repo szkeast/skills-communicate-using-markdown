@@ -10,5 +10,8 @@ print("Hello,World!")
 ```C
 printf("Hello,Github!");
 ```
+- [ ] Become a student in Github
+- [ ] Finish the basic courses in Github
+- [ ] Learning Web and hacker skills in github
 
 
